@@ -1,5 +1,4 @@
-# 
-My-Bootstrap-Login-Template
+# My-Bootstrap-Login-Template
 
 <b>Tools:</b>
   <ul>
