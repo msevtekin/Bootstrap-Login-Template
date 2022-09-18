@@ -2,10 +2,7 @@
 <b>Tools:</b>
 
 <ul>
-<li>HTML5<li>
-<li>Bootstrap5<li>
-<li>CSS3<li>
-<li>Heroku <li>
+<li>HTML5<li><li>Bootstrap5<li><li>CSS3<li><li>Heroku <li>
 </ul>
   
 
