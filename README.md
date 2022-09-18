@@ -1,11 +1,11 @@
 # My-Front-Templates
 <b>Tools:</b>
-<li>
-<ul>HTML5 </ul>
-<ul>Bootstrap5 </ul>
-<ul>CSS3 </ul>
-<ul>Heroku </ul>
-</li>
+<ul>
+<li>HTML5<li>
+<li>Bootstrap5<li>
+<li>CSS3<li>
+<li>Heroku <li>
+<ul>
 
 Bu kodun canlı haline aşağıdaki linkten ulaşabilirsiniz.
 
