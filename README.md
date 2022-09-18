@@ -9,4 +9,4 @@
 
 Bu kodun canlı haline aşağıdaki linkten ulaşabilirsiniz.
 
--->  https://login-pag3.herokuapp.com/index.html
+<b> --> </b>  https://login-pag3.herokuapp.com/index.html
